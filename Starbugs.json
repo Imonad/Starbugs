@@ -2,11 +2,12 @@
     "name": "Starbugs Coffee",
     "symbol": "SBC",
     "description": "Starbugs coffee token is the perfect coffee token",
-    "image": "Starbugs1.png",
+    "image": "https://raw.githubusercontent.com/Imonad/Starbugs/main/Starbugs1.png",
     "attributes": [
       {
         "trait_type": "Item",
         "value": "Developer Portal"
       }
     ]
+
   }
